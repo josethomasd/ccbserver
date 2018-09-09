@@ -1,0 +1,32 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+	<category>
+		<pattern>HELLO</pattern>
+		<template>
+			Well, hello!
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHAT ARE YOU</pattern>
+		<template>
+			<random>
+				<li>I'm a bot, silly!</li>
+				<li>Yo man, I am a bot.</li>
+				<li>I'm a chat bot.</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>DO YOU LIKE ME</pattern>
+		<template>
+			Yes, ofcourse
+		</template>
+	</category>
+	<category>
+		<pattern>WHAT IS MY NAME</pattern>
+		<template>
+			Your name is <get name="uname"/>
+		</template>
+	</category>
+</aiml>

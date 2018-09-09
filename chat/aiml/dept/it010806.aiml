@@ -1,0 +1,1259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>TEACHER IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT IT010806 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT IT010806 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS IT010806 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS IT010806 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 TAUGHT PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 TAUGHT PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 TEACHER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 TEACHER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TELL TEACH IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TELL TEACH IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 TEACH PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 TEACH PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT IT010806 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT IT010806 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 TEACH TEACHER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 TEACH TEACHER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH IT010806 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH IT010806 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 TEACH</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 TEACH</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS IT010806 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS IT010806 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT IT010806 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT IT010806 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSRUCTING IT010806 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSRUCTING IT010806 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>NAME PROFESSOR IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>NAME PROFESSOR IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>NAME TEACHER IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>NAME TEACHER IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH IT010806 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH IT010806 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS IT010806 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS IT010806 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN CLASS IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN CLASS IT010806</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH IT010806 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH IT010806 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010806</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>INSTRUCTOR 010806</pattern>
+	<template>
+		<random>
+			<li>$Professor Asst. Prof. Mr. Santhanu P Mohan is teaching IT010806. </li>
+			<li>$Professor Asst. Prof. Mr. Santhanu P Mohan will be teaching IT010806. </li>
+			<li>$Instructor of IT010806 is Professor Asst. Prof. Mr. Santhanu P Mohan. </li>
+			<li>$IT010806 is running under instruction of Professor Asst. Prof. Mr. Santhanu P Mohan. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>IT010806 WORTH MANY CREDITS</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 WORTH MANY CREDITS</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 CREDITS</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 CREDITS</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS IT010806</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS IT010806</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 CREDITS ADDITION</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 CREDITS ADDITION</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS IT010806</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS IT010806</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 GIVE MANY CREDITS</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 GIVE MANY CREDITS</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS GET COMPLETE IT010806</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS GET COMPLETE IT010806</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION IT010806 CREDITS</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION IT010806 CREDITS</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CREDITS IT010806</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CREDITS IT010806</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS IT010806 WORTH</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS IT010806 WORTH</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 WORTH NUMBER CREDITS</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 WORTH NUMBER CREDITS</pattern>
+	<template><srai>CREDITS 010806</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>CREDITS 010806</pattern>
+	<template>
+		<random>
+			<li>$IT 010806 is worth 2 credits. </li>
+			<li>$IT 010806 is of 2 credits. </li>
+			<li>$2 credits are awarded on successful completion of IT010806. </li>
+			<li>$2 credits. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COURSE PLAN IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE PLAN IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS SCREEN IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS SCREEN IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER GO TEACH IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER GO TEACH IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 OUTLINE</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 OUTLINE</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR GO TEACH IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR GO TEACH IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>GET LEARN IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>GET LEARN IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 SURVEY</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 SURVEY</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TELL PROFESSOR TEACH IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TELL PROFESSOR TEACH IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN COMPLETE IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN COMPLETE IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS SCREEN IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS SCREEN IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS INCLUDE IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS INCLUDE IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CONTENT IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CONTENT IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE COURSEOFSTUDY IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE COURSEOFSTUDY IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR EXPECT TEACH IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR EXPECT TEACH IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY SCREEN IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY SCREEN IT010806</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 SCOPE</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 SCOPE</pattern>
+	<template><srai>SYLLABUS 010806</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>SYLLABUS 010806</pattern>
+	<template>
+		<random>
+			<li>$The syllabus for IT010806 is 1. Implementing and deploying web applications using Servlets, HTML and
+JSPs.
+2. Testing the applications on an Application Server.
+3. Debugging Web applications locally and remotely.
+4. Developing applications in a team environment.
+5. Retrieval of data from database using SQL and exchange of information in
+XML format.. </li>
+			<li>$1. Implementing and deploying web applications using Servlets, HTML and
+JSPs.
+2. Testing the applications on an Application Server.
+3. Debugging Web applications locally and remotely.
+4. Developing applications in a team environment.
+5. Retrieval of data from database using SQL and exchange of information in
+XML format. is taught in IT010806. </li>
+			<li>$Prof. Asst. Prof. Mr. Santhanu P Mohan will teach 1. Implementing and deploying web applications using Servlets, HTML and
+JSPs.
+2. Testing the applications on an Application Server.
+3. Debugging Web applications locally and remotely.
+4. Developing applications in a team environment.
+5. Retrieval of data from database using SQL and exchange of information in
+XML format. in IT010806. </li>
+			<li>$1. Implementing and deploying web applications using Servlets, HTML and
+JSPs.
+2. Testing the applications on an Application Server.
+3. Debugging Web applications locally and remotely.
+4. Developing applications in a team environment.
+5. Retrieval of data from database using SQL and exchange of information in
+XML format.. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COURSE CODE IT010806 NAME</pattern>
+	<template><srai>TITLE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CODE IT010806 NAME</pattern>
+	<template><srai>TITLE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 COURSE TITLE</pattern>
+	<template><srai>TITLE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 COURSE TITLE</pattern>
+	<template><srai>TITLE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE IT010806</pattern>
+	<template><srai>TITLE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE IT010806</pattern>
+	<template><srai>TITLE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 COURSE NAME</pattern>
+	<template><srai>TITLE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 COURSE NAME</pattern>
+	<template><srai>TITLE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 NAME</pattern>
+	<template><srai>TITLE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 NAME</pattern>
+	<template><srai>TITLE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN NAME IT010806</pattern>
+	<template><srai>TITLE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN NAME IT010806</pattern>
+	<template><srai>TITLE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE IT010806 TITLE</pattern>
+	<template><srai>TITLE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE IT010806 TITLE</pattern>
+	<template><srai>TITLE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE NAME IT010806</pattern>
+	<template><srai>TITLE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE NAME IT010806</pattern>
+	<template><srai>TITLE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>NAME IT010806</pattern>
+	<template><srai>TITLE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>NAME IT010806</pattern>
+	<template><srai>TITLE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 TITLE</pattern>
+	<template><srai>TITLE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 TITLE</pattern>
+	<template><srai>TITLE 010806</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TITLE 010806</pattern>
+	<template>
+		<random>
+			<li>$The course name of IT010806 is Web applications lab. </li>
+			<li>$The course title of IT010806 is Web applications lab. </li>
+			<li>$Course code IT010806 is Web applications lab. </li>
+			<li>$IT010806 is Web applications lab. </li>
+			<li>$Web applications lab. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>SUGGEST GOOD BOOK IT010806</pattern>
+	<template><srai>REFERENCES 010806</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST GOOD BOOK IT010806</pattern>
+	<template><srai>REFERENCES 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 MENTION</pattern>
+	<template><srai>REFERENCES 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 MENTION</pattern>
+	<template><srai>REFERENCES 010806</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK RECOMMEND IT010806</pattern>
+	<template><srai>REFERENCES 010806</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK RECOMMEND IT010806</pattern>
+	<template><srai>REFERENCES 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 SURVEY MATERIAL</pattern>
+	<template><srai>REFERENCES 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 SURVEY MATERIAL</pattern>
+	<template><srai>REFERENCES 010806</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK IT010806</pattern>
+	<template><srai>REFERENCES 010806</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK IT010806</pattern>
+	<template><srai>REFERENCES 010806</srai></template>
+</category>
+
+<category>
+	<pattern>READ IT010806</pattern>
+	<template><srai>REFERENCES 010806</srai></template>
+</category>
+
+<category>
+	<pattern>READ IT010806</pattern>
+	<template><srai>REFERENCES 010806</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION IT010806</pattern>
+	<template><srai>REFERENCES 010806</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION IT010806</pattern>
+	<template><srai>REFERENCES 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 BOOK</pattern>
+	<template><srai>REFERENCES 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 BOOK</pattern>
+	<template><srai>REFERENCES 010806</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY MATERIAL IT010806</pattern>
+	<template><srai>REFERENCES 010806</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY MATERIAL IT010806</pattern>
+	<template><srai>REFERENCES 010806</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>REFERENCES 010806</pattern>
+	<template>
+		<random>
+			<li>$The references are 1. Juha Korhonen, Introduction to 3G Mobile communications, Artech House, 2001, 2. Miikka Poikselka, Aki Niemi, Hisham Khartabil, Georg Mayer, The IMS: IP Multimedia Concepts and Services, 2nd Edition John Wiley and Sons 2006 3. Jeffrey G. Andrews Fundamentals of WiMAX: Understanding Broadband Wireless Networking, Prentice Hall, 2007 4. Clint Smith, Daniel Collins, Daniel Collins, 3G Wireless Networks, McGraw-Hill Companies, 2006 5. Garg.V.K IS-95 CDMA and cdma 2000, first Indian reprint 2002, Pearson Education 6. Heikki Kaaranen, Siamak Naghian, Lauri Laitinen, Ari Ahtiainen , Valtteri Niemi, UMTS Networks: Architecture, Mobility and Services, John Wiley and Sons; 1 st edition 2001 7. Frank Ohrtman, WiMAX Handbook, McGraw-Hill Professional; 1 edition 2005 for IT010806. </li>
+			<li>$The references are 1. Juha Korhonen, Introduction to 3G Mobile communications, Artech House, 2001, 2. Miikka Poikselka, Aki Niemi, Hisham Khartabil, Georg Mayer, The IMS: IP Multimedia Concepts and Services, 2nd Edition John Wiley and Sons 2006 3. Jeffrey G. Andrews Fundamentals of WiMAX: Understanding Broadband Wireless Networking, Prentice Hall, 2007 4. Clint Smith, Daniel Collins, Daniel Collins, 3G Wireless Networks, McGraw-Hill Companies, 2006 5. Garg.V.K IS-95 CDMA and cdma 2000, first Indian reprint 2002, Pearson Education 6. Heikki Kaaranen, Siamak Naghian, Lauri Laitinen, Ari Ahtiainen , Valtteri Niemi, UMTS Networks: Architecture, Mobility and Services, John Wiley and Sons; 1 st edition 2001 7. Frank Ohrtman, WiMAX Handbook, McGraw-Hill Professional; 1 edition 2005 for Web applications lab. </li>
+			<li>$References according to Professor Asst. Prof. Mr. Santhanu P Mohan are 1. Juha Korhonen, Introduction to 3G Mobile communications, Artech House, 2001, 2. Miikka Poikselka, Aki Niemi, Hisham Khartabil, Georg Mayer, The IMS: IP Multimedia Concepts and Services, 2nd Edition John Wiley and Sons 2006 3. Jeffrey G. Andrews Fundamentals of WiMAX: Understanding Broadband Wireless Networking, Prentice Hall, 2007 4. Clint Smith, Daniel Collins, Daniel Collins, 3G Wireless Networks, McGraw-Hill Companies, 2006 5. Garg.V.K IS-95 CDMA and cdma 2000, first Indian reprint 2002, Pearson Education 6. Heikki Kaaranen, Siamak Naghian, Lauri Laitinen, Ari Ahtiainen , Valtteri Niemi, UMTS Networks: Architecture, Mobility and Services, John Wiley and Sons; 1 st edition 2001 7. Frank Ohrtman, WiMAX Handbook, McGraw-Hill Professional; 1 edition 2005 for IT010806. </li>
+			<li>$1. Juha Korhonen, Introduction to 3G Mobile communications, Artech House, 2001, 2. Miikka Poikselka, Aki Niemi, Hisham Khartabil, Georg Mayer, The IMS: IP Multimedia Concepts and Services, 2nd Edition John Wiley and Sons 2006 3. Jeffrey G. Andrews Fundamentals of WiMAX: Understanding Broadband Wireless Networking, Prentice Hall, 2007 4. Clint Smith, Daniel Collins, Daniel Collins, 3G Wireless Networks, McGraw-Hill Companies, 2006 5. Garg.V.K IS-95 CDMA and cdma 2000, first Indian reprint 2002, Pearson Education 6. Heikki Kaaranen, Siamak Naghian, Lauri Laitinen, Ari Ahtiainen , Valtteri Niemi, UMTS Networks: Architecture, Mobility and Services, John Wiley and Sons; 1 st edition 2001 7. Frank Ohrtman, WiMAX Handbook, McGraw-Hill Professional; 1 edition 2005. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>IT010806 TYPE</pattern>
+	<template><srai>TYPE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 TYPE</pattern>
+	<template><srai>TYPE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE IT010806 COURSE</pattern>
+	<template><srai>TYPE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE IT010806 COURSE</pattern>
+	<template><srai>TYPE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 THEORY LAB</pattern>
+	<template><srai>TYPE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 THEORY LAB</pattern>
+	<template><srai>TYPE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE IT010806</pattern>
+	<template><srai>TYPE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE IT010806</pattern>
+	<template><srai>TYPE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 LAB THEORY</pattern>
+	<template><srai>TYPE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 LAB THEORY</pattern>
+	<template><srai>TYPE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 THEORY COURSE LAB</pattern>
+	<template><srai>TYPE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 THEORY COURSE LAB</pattern>
+	<template><srai>TYPE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY LAB IT010806</pattern>
+	<template><srai>TYPE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY LAB IT010806</pattern>
+	<template><srai>TYPE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>LAB THEORY IT010806</pattern>
+	<template><srai>TYPE 010806</srai></template>
+</category>
+
+<category>
+	<pattern>LAB THEORY IT010806</pattern>
+	<template><srai>TYPE 010806</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TYPE 010806</pattern>
+	<template>
+		<random>
+			<li>$IT010806 is a Theory course. </li>
+			<li>$It's a Theory course . </li>
+			<li>$Theory. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>IT010806 DURATION</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 DURATION</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER IT010806 RUN</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER IT010806 RUN</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH IT010806</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH IT010806</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH SEMESTER IT010806 RETURN</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH SEMESTER IT010806 RETURN</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 TIME TIMEPERIOD</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 TIME TIMEPERIOD</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN IT010806</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN IT010806</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH IT010806 COURSE</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH IT010806 COURSE</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TIME TIMEPERIOD IT010806</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TIME TIMEPERIOD IT010806</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 LENGTH</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 LENGTH</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION IT010806</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION IT010806</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TIME DURATION IT010806</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>TIME DURATION IT010806</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DAYS IT010806 RUN</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DAYS IT010806 RUN</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CALENDARMONTH RETURN COMPLETE IT010806</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CALENDARMONTH RETURN COMPLETE IT010806</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER IT010806 GET STRETCH</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER IT010806 GET STRETCH</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 SPAN</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<category>
+	<pattern>IT010806 SPAN</pattern>
+	<template><srai>DURATION 010806</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>DURATION 010806</pattern>
+	<template>
+		<random>
+			<li>$IT010806 is a Full semester course. </li>
+			<li>$It's a Full semester course . </li>
+			<li>$IT010806 is Full semester long . </li>
+			<li>$Full semester. </li>
+		</random>
+	</template>
+</category>
+
+</aiml>

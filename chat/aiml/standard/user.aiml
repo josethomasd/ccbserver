@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>TELL _ NAME</pattern>
+	<template><srai>USERNAME</srai></template>
+</category>
+
+<category>
+	<pattern>TELL NAME</pattern>
+	<template><srai>USERNAME</srai></template>
+</category>
+
+<category>
+	<pattern>NAME</pattern>
+	<template><srai>USERNAME</srai></template>
+</category>
+
+<category>
+	<pattern>NAME</pattern>
+	<template><srai>USERNAME</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>USERNAME</pattern>
+	<template>
+		<random>
+			<li>$Your name is <get name='uname'/>.</li>
+			<li>$You are <get name='uname'/>. </li>
+			<li>$Your username is <get name='uname'/>. </li>
+		</random>
+	</template>
+</category>
+
+</aiml>
