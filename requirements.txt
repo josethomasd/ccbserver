@@ -1,4 +1,4 @@
-Flask == 0.12
-gunicorn == 19.1.1
+Flask == 0.12.3
+gunicorn == 19.5.0
 aiml == 0.8.6
 nltk == 3.2.2
