@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ IT010801 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT IT010801 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 TEACHER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ IT010801 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT IT010801 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ PROFESSOR _ IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>NAME PROFESSOR IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ TEACH _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 TEACH PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSRUCTING _ IT010801 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSRUCTING IT010801 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN _ CLASS _ IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN CLASS IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ TEACH _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 TEACH TEACHER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR _ IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ TEACH</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 TEACH</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ IT010801 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS IT010801 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ IT010801 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS IT010801 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ IT010801 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH IT010801 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ IT010801 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH IT010801 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ IT010801 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT IT010801 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ TEACH _ IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TELL TEACH IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ IT010801 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH IT010801 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ IT010801 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS IT010801 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ TEACHER _ IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>NAME TEACHER IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE _ IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE _ IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER IT010801</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ TAUGHT _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 TAUGHT PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 010802</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>INSTRUCTOR 010802</pattern>
+	<template>
+		<random>
+			<li>$Professor Mrs. Anju Susan George is teaching IT010802. </li>
+			<li>$Professor Mrs. Anju Susan George will be teaching IT010802. </li>
+			<li>$Instructor of IT010802 is Professor Mrs. Anju Susan George. </li>
+			<li>$IT010802 is running under instruction of Professor Mrs. Anju Susan George. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CREDITS _ IT010801</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS IT010801</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ CREDITS _ ADDITION</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 CREDITS ADDITION</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ WORTH _ NUMBER _ CREDITS</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 WORTH NUMBER CREDITS</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ GIVE _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 GIVE MANY CREDITS</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ WORTH _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 WORTH MANY CREDITS</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ GET _ COMPLETE _ IT010801</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS GET COMPLETE IT010801</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ CREDITS</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 CREDITS</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ IT010801</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS IT010801</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ IT010801 _ WORTH</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS IT010801 WORTH</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CREDITS _ IT010801</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CREDITS IT010801</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION _ IT010801 _ CREDITS</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION IT010801 CREDITS</pattern>
+	<template><srai>CREDITS 010802</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>CREDITS 010802</pattern>
+	<template>
+		<random>
+			<li>$IT 010802 is worth 4 credits. </li>
+			<li>$IT 010802 is of 4 credits. </li>
+			<li>$4 credits are awarded on successful completion of IT010802. </li>
+			<li>$4 credits. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ GO _ TEACH _ IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR GO TEACH IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE _ IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ SCREEN _ IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS SCREEN IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>GET _ LEARN _ IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>GET LEARN IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN _ COMPLETE _ IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN COMPLETE IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ INCLUDE _ IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS INCLUDE IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ SCREEN _ IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY SCREEN IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ COURSEOFSTUDY _ IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE COURSEOFSTUDY IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ EXPECT _ TEACH _ IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR EXPECT TEACH IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ OUTLINE</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 OUTLINE</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT _ IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ SURVEY</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 SURVEY</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ GO _ TEACH _ IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER GO TEACH IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ PROFESSOR _ TEACH _ IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TELL PROFESSOR TEACH IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CONTENT _ IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CONTENT IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ PLAN _ IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE PLAN IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ SCOPE</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 SCOPE</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE _ IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ SCREEN _ IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS SCREEN IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN _ IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN IT010801</pattern>
+	<template><srai>SYLLABUS 010802</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>SYLLABUS 010802</pattern>
+	<template>
+		<random>
+			<li>$The syllabus for IT010802 is Module 1: Basics of Algebra and Number Theory: Integer Arithmatic, Modular Arithmatic, Algebraic structures, GF(2n) Fields, Matrices, Prime Numbers, Fermat's and Eulers's Theorem, Primality Testing, Factorization, Chinese Remainder Theorem, Linear and Quadratic Congruence, Discrete Logarithms.   Module 2: Symmetric Ciphers: Classical Encryption Techniques, Symmetric Cipher Model, Substitution and Transposition Ciphers, Stream and Block Ciphers,Data Encryption Standard, Advanced Encryption Standard, Triple DES, Confidentiality Using Symmetric Encryption. Module 3: Public-Key Encryption and Hash Functions : Public-Key Cryptography,RSA Algorithm, ElGamal Cryptosystem, Key Management, Diffie-HellmanKey Exchange, Elliptic Curve Cryptography, Message Authentication Codes,Hash Functions ,Secure Hash Algorithm, Digital Signature schemes. Module 4: Network Security Practice Applications: Authentication Applications,Kerberos, X.509 Authentication Service, Electronic Mail Security, PrettyGood Privacy, S/MIME, IP Security Overview, IP Security Architecture,Authentication Header, Encapsulating Security Payload. Module 5: System Security: Intruders, Intrusion Detection, Password Management,Viruses and Related Threats, Virus Countermeasures, Distributed Denial of Service attacks, Firewalls, Firewall Design Principles, Trusted Systems.. </li>
+			<li>$Module 1: Basics of Algebra and Number Theory: Integer Arithmatic, Modular Arithmatic, Algebraic structures, GF(2n) Fields, Matrices, Prime Numbers, Fermat's and Eulers's Theorem, Primality Testing, Factorization, Chinese Remainder Theorem, Linear and Quadratic Congruence, Discrete Logarithms.   Module 2: Symmetric Ciphers: Classical Encryption Techniques, Symmetric Cipher Model, Substitution and Transposition Ciphers, Stream and Block Ciphers,Data Encryption Standard, Advanced Encryption Standard, Triple DES, Confidentiality Using Symmetric Encryption. Module 3: Public-Key Encryption and Hash Functions : Public-Key Cryptography,RSA Algorithm, ElGamal Cryptosystem, Key Management, Diffie-HellmanKey Exchange, Elliptic Curve Cryptography, Message Authentication Codes,Hash Functions ,Secure Hash Algorithm, Digital Signature schemes. Module 4: Network Security Practice Applications: Authentication Applications,Kerberos, X.509 Authentication Service, Electronic Mail Security, PrettyGood Privacy, S/MIME, IP Security Overview, IP Security Architecture,Authentication Header, Encapsulating Security Payload. Module 5: System Security: Intruders, Intrusion Detection, Password Management,Viruses and Related Threats, Virus Countermeasures, Distributed Denial of Service attacks, Firewalls, Firewall Design Principles, Trusted Systems. is taught in IT010802. </li>
+			<li>$Prof. Mrs. Anju Susan George will teach Module 1: Basics of Algebra and Number Theory: Integer Arithmatic, Modular Arithmatic, Algebraic structures, GF(2n) Fields, Matrices, Prime Numbers, Fermat's and Eulers's Theorem, Primality Testing, Factorization, Chinese Remainder Theorem, Linear and Quadratic Congruence, Discrete Logarithms.   Module 2: Symmetric Ciphers: Classical Encryption Techniques, Symmetric Cipher Model, Substitution and Transposition Ciphers, Stream and Block Ciphers,Data Encryption Standard, Advanced Encryption Standard, Triple DES, Confidentiality Using Symmetric Encryption. Module 3: Public-Key Encryption and Hash Functions : Public-Key Cryptography,RSA Algorithm, ElGamal Cryptosystem, Key Management, Diffie-HellmanKey Exchange, Elliptic Curve Cryptography, Message Authentication Codes,Hash Functions ,Secure Hash Algorithm, Digital Signature schemes. Module 4: Network Security Practice Applications: Authentication Applications,Kerberos, X.509 Authentication Service, Electronic Mail Security, PrettyGood Privacy, S/MIME, IP Security Overview, IP Security Architecture,Authentication Header, Encapsulating Security Payload. Module 5: System Security: Intruders, Intrusion Detection, Password Management,Viruses and Related Threats, Virus Countermeasures, Distributed Denial of Service attacks, Firewalls, Firewall Design Principles, Trusted Systems. in IT010802. </li>
+			<li>$Module 1: Basics of Algebra and Number Theory: Integer Arithmatic, Modular Arithmatic, Algebraic structures, GF(2n) Fields, Matrices, Prime Numbers, Fermat's and Eulers's Theorem, Primality Testing, Factorization, Chinese Remainder Theorem, Linear and Quadratic Congruence, Discrete Logarithms.   Module 2: Symmetric Ciphers: Classical Encryption Techniques, Symmetric Cipher Model, Substitution and Transposition Ciphers, Stream and Block Ciphers,Data Encryption Standard, Advanced Encryption Standard, Triple DES, Confidentiality Using Symmetric Encryption. Module 3: Public-Key Encryption and Hash Functions : Public-Key Cryptography,RSA Algorithm, ElGamal Cryptosystem, Key Management, Diffie-HellmanKey Exchange, Elliptic Curve Cryptography, Message Authentication Codes,Hash Functions ,Secure Hash Algorithm, Digital Signature schemes. Module 4: Network Security Practice Applications: Authentication Applications,Kerberos, X.509 Authentication Service, Electronic Mail Security, PrettyGood Privacy, S/MIME, IP Security Overview, IP Security Architecture,Authentication Header, Encapsulating Security Payload. Module 5: System Security: Intruders, Intrusion Detection, Password Management,Viruses and Related Threats, Virus Countermeasures, Distributed Denial of Service attacks, Firewalls, Firewall Design Principles, Trusted Systems.. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>IT010801 _ NAME</pattern>
+	<template><srai>TITLE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 NAME</pattern>
+	<template><srai>TITLE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ IT010801 _ TITLE</pattern>
+	<template><srai>TITLE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE IT010801 TITLE</pattern>
+	<template><srai>TITLE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ NAME _ IT010801</pattern>
+	<template><srai>TITLE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN NAME IT010801</pattern>
+	<template><srai>TITLE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE _ IT010801</pattern>
+	<template><srai>TITLE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE IT010801</pattern>
+	<template><srai>TITLE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ COURSE _ NAME</pattern>
+	<template><srai>TITLE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 COURSE NAME</pattern>
+	<template><srai>TITLE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ COURSE _ TITLE</pattern>
+	<template><srai>TITLE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 COURSE TITLE</pattern>
+	<template><srai>TITLE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ IT010801</pattern>
+	<template><srai>TITLE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>NAME IT010801</pattern>
+	<template><srai>TITLE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CODE _ IT010801 _ NAME</pattern>
+	<template><srai>TITLE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CODE IT010801 NAME</pattern>
+	<template><srai>TITLE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ NAME _ IT010801</pattern>
+	<template><srai>TITLE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE NAME IT010801</pattern>
+	<template><srai>TITLE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ TITLE</pattern>
+	<template><srai>TITLE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 TITLE</pattern>
+	<template><srai>TITLE 010802</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TITLE 010802</pattern>
+	<template>
+		<random>
+			<li>$The course name of IT010802 is CRYPTOGRAPHY AND NETWORK SECURITY. </li>
+			<li>$The course title of IT010802 is CRYPTOGRAPHY AND NETWORK SECURITY. </li>
+			<li>$Course code IT010802 is CRYPTOGRAPHY AND NETWORK SECURITY. </li>
+			<li>$IT010802 is CRYPTOGRAPHY AND NETWORK SECURITY. </li>
+			<li>$CRYPTOGRAPHY AND NETWORK SECURITY. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MENTION _ IT010801</pattern>
+	<template><srai>REFERENCES 010802</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION IT010801</pattern>
+	<template><srai>REFERENCES 010802</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ MATERIAL _ IT010801</pattern>
+	<template><srai>REFERENCES 010802</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY MATERIAL IT010801</pattern>
+	<template><srai>REFERENCES 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ SURVEY _ MATERIAL</pattern>
+	<template><srai>REFERENCES 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 SURVEY MATERIAL</pattern>
+	<template><srai>REFERENCES 010802</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ RECOMMEND _ IT010801</pattern>
+	<template><srai>REFERENCES 010802</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK RECOMMEND IT010801</pattern>
+	<template><srai>REFERENCES 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ MENTION</pattern>
+	<template><srai>REFERENCES 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 MENTION</pattern>
+	<template><srai>REFERENCES 010802</srai></template>
+</category>
+
+<category>
+	<pattern>READ _ IT010801</pattern>
+	<template><srai>REFERENCES 010802</srai></template>
+</category>
+
+<category>
+	<pattern>READ IT010801</pattern>
+	<template><srai>REFERENCES 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ BOOK</pattern>
+	<template><srai>REFERENCES 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 BOOK</pattern>
+	<template><srai>REFERENCES 010802</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST _ GOOD _ BOOK _ IT010801</pattern>
+	<template><srai>REFERENCES 010802</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST GOOD BOOK IT010801</pattern>
+	<template><srai>REFERENCES 010802</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ IT010801</pattern>
+	<template><srai>REFERENCES 010802</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK IT010801</pattern>
+	<template><srai>REFERENCES 010802</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>REFERENCES 010802</pattern>
+	<template>
+		<random>
+			<li>$The references are 1. William Stallings, Cryptography and Network Security Principles and Practices, Pearson Education, Fourth Edition, 2006. 2. Behrouz A. Forouzan,Dedeep Mukhopadhyay Cryptography & Network Security, Second Edition,Tata McGraw Hill, New Delhi, 2010 3. Atul Kahate, Cryptography and Network Security, 2 nd Edition, Tata McGraw Hill, 2003. 4. Wenbo Mao,   Modern Cryptography- Theory & Practice, PearsonEducation, 2006. 5. Bruce Schneier,  Applied Cryptography, John Wiley and Sons Inc, 2001. for IT010802. </li>
+			<li>$The references are 1. William Stallings, Cryptography and Network Security Principles and Practices, Pearson Education, Fourth Edition, 2006. 2. Behrouz A. Forouzan,Dedeep Mukhopadhyay Cryptography & Network Security, Second Edition,Tata McGraw Hill, New Delhi, 2010 3. Atul Kahate, Cryptography and Network Security, 2 nd Edition, Tata McGraw Hill, 2003. 4. Wenbo Mao,   Modern Cryptography- Theory & Practice, PearsonEducation, 2006. 5. Bruce Schneier,  Applied Cryptography, John Wiley and Sons Inc, 2001. for CRYPTOGRAPHY AND NETWORK SECURITY. </li>
+			<li>$References according to Professor Mrs. Anju Susan George are 1. William Stallings, Cryptography and Network Security Principles and Practices, Pearson Education, Fourth Edition, 2006. 2. Behrouz A. Forouzan,Dedeep Mukhopadhyay Cryptography & Network Security, Second Edition,Tata McGraw Hill, New Delhi, 2010 3. Atul Kahate, Cryptography and Network Security, 2 nd Edition, Tata McGraw Hill, 2003. 4. Wenbo Mao,   Modern Cryptography- Theory & Practice, PearsonEducation, 2006. 5. Bruce Schneier,  Applied Cryptography, John Wiley and Sons Inc, 2001. for IT010802. </li>
+			<li>$1. William Stallings, Cryptography and Network Security Principles and Practices, Pearson Education, Fourth Edition, 2006. 2. Behrouz A. Forouzan,Dedeep Mukhopadhyay Cryptography & Network Security, Second Edition,Tata McGraw Hill, New Delhi, 2010 3. Atul Kahate, Cryptography and Network Security, 2 nd Edition, Tata McGraw Hill, 2003. 4. Wenbo Mao,   Modern Cryptography- Theory & Practice, PearsonEducation, 2006. 5. Bruce Schneier,  Applied Cryptography, John Wiley and Sons Inc, 2001.. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TYPE _ IT010801</pattern>
+	<template><srai>TYPE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE IT010801</pattern>
+	<template><srai>TYPE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>LAB _ THEORY _ IT010801</pattern>
+	<template><srai>TYPE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>LAB THEORY IT010801</pattern>
+	<template><srai>TYPE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY _ LAB _ IT010801</pattern>
+	<template><srai>TYPE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY LAB IT010801</pattern>
+	<template><srai>TYPE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ LAB _ THEORY</pattern>
+	<template><srai>TYPE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 LAB THEORY</pattern>
+	<template><srai>TYPE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ THEORY _ COURSE _ LAB</pattern>
+	<template><srai>TYPE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 THEORY COURSE LAB</pattern>
+	<template><srai>TYPE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ THEORY _ LAB</pattern>
+	<template><srai>TYPE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 THEORY LAB</pattern>
+	<template><srai>TYPE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ IT010801 _ COURSE</pattern>
+	<template><srai>TYPE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE IT010801 COURSE</pattern>
+	<template><srai>TYPE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ TYPE</pattern>
+	<template><srai>TYPE 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 TYPE</pattern>
+	<template><srai>TYPE 010802</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TYPE 010802</pattern>
+	<template>
+		<random>
+			<li>$IT010802 is a Theory course. </li>
+			<li>$It's a Theory course . </li>
+			<li>$Theory. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ CALENDARMONTH _ RETURN _ COMPLETE _ IT010801</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CALENDARMONTH RETURN COMPLETE IT010801</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ DURATION</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 DURATION</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION _ IT010801</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION IT010801</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ SPAN</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 SPAN</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ DURATION _ IT010801</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TIME DURATION IT010801</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ TIME _ TIMEPERIOD</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 TIME TIMEPERIOD</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ TIMEPERIOD _ IT010801</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>TIME TIMEPERIOD IT010801</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ IT010801 _ RUN</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER IT010801 RUN</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ IT010801 _ COURSE</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH IT010801 COURSE</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DAYS _ IT010801 _ RUN</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DAYS IT010801 RUN</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ IT010801</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH IT010801</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH _ SEMESTER _ IT010801 _ RETURN</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH SEMESTER IT010801 RETURN</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN _ IT010801</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN IT010801</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ IT010801 _ GET _ STRETCH</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER IT010801 GET STRETCH</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 _ LENGTH</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<category>
+	<pattern>IT010801 LENGTH</pattern>
+	<template><srai>DURATION 010802</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>DURATION 010802</pattern>
+	<template>
+		<random>
+			<li>$IT010802 is a Full Semester course. </li>
+			<li>$It's a Full Semester course . </li>
+			<li>$IT010802 is Full Semester long . </li>
+			<li>$Full Semester. </li>
+		</random>
+	</template>
+</category>
+
+</aiml>
